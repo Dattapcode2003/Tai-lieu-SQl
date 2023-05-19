@@ -1,0 +1,2 @@
+create database bt33_22cntt1a
+use bt33_22cntt1a
